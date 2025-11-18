@@ -1,0 +1,23 @@
+The following jupyter notebook files contain RELEVANT data:
+- Copernicus_Kd490.ipynb
+- Secchi_Depths.ipynb
+- Analysis.ipynb 
+- Seaweed.ipynb (still in initial stages)
+
+Relevant .nc files were not uploaded to Git due to size constraints. 
+
+However, relevant figures have been uploaded, though they are still in their initial phases
+For Trends of Weekly Averages:
+- Weekly_Trend_CDOM.png
+- Weekly_Trend_Chl_a.png
+- Weekly_Trend_KD490.png
+- Weekly_Trend_SPM.png
+- Weekly_Trend_SST.png
+For that same trends but separated by season, please see:
+- Seasonal_CDOM_trend.png
+- Seasonal_Chl_a_trend.png
+- Seasonal_KD490.png
+- Seasonal_SPM_trend.png
+- (Failed to get the SST one into a png, to be corrected later 18.11.25)
+
+Please ignore Copernicus_Kd490_Chla_CDOM.ipynb (abandoned), Precipitation Data Download.ipynb (abandoned), and sample.ipynb (failed to delete before uploading to Git)

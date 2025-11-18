@@ -1,3 +1,6 @@
+WARNING: You will need to paste the link to the notebook into https://nbviewer.jupyter.org/ in order to view the very large files (ie. Copernicus_Kd490.ipynb, ex: https://nbviewer.jupyter.org/github/hannah-doran/ISOLUME_Doran/blob/master/Copernicus_Kd490.ipynb)
+
+
 The following jupyter notebook files contain RELEVANT data:
 - Copernicus_Kd490.ipynb
 - Secchi_Depths.ipynb
@@ -18,6 +21,6 @@ For that same trends but separated by season, please see:
 - Seasonal_Chl_a_trend.png
 - Seasonal_KD490.png
 - Seasonal_SPM_trend.png
-- (Failed to get the SST one into a png, to be corrected later 18.11.25)
+- (Failed to get the SST one into seasonal trends, to be corrected later 18.11.25)
 
 Please ignore Copernicus_Kd490_Chla_CDOM.ipynb (abandoned), Precipitation Data Download.ipynb (abandoned), and sample.ipynb (failed to delete before uploading to Git)

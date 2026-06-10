@@ -1,11 +1,10 @@
-WARNING: You will need to paste the link to the notebook into https://nbviewer.jupyter.org/ in order to view the very large files (ie. Copernicus_Kd490.ipynb, ex: https://nbviewer.jupyter.org/github/hannah-doran/ISOLUME_Doran/blob/master/Copernicus_Kd490.ipynb)
-
+WARNING: These files are very exploratory and show the processes of me trying different methods to download, perform statistics, etc. ie: they are very messy.
 
 The following jupyter notebook files contain RELEVANT data:
-- Copernicus_Kd490.ipynb
+- Copernicus_Kd490.ipynb (needs to be viewed from Copernicus_Kd490.html - download .html file and then open it in your browser. Sorry, it's too big for GitHub to show the code!)
 - Secchi_Depths.ipynb
-- Analysis.ipynb 
-- Seaweed.ipynb (still in initial stages)
+- Analysis.ipynb (contains most comparisons)
+- Seaweed.ipynb (still in very initial stages)
 
 Relevant .nc files were not uploaded to Git due to size constraints. 
 
